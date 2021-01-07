@@ -12,7 +12,7 @@ python GetSubdomain.py -d baidu.com -p 1 -f 1.txt
 
 从百度、bing、360搜索获取1页baidu.com的子域名
 
-https://github.com/jeansgit/PythonStudy/blob/master/%E8%8E%B7%E5%8F%96%E5%AD%90%E5%9F%9F%E5%90%8D/GetSubDomain_V0.1.py%E6%89%A7%E8%A1%8C%E7%BB%93%E6%9E%9C.png
+![](https://github.com/jeansgit/PythonStudy/blob/master/domain.png)
 
 
 
